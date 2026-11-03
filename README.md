@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sathya Arumugam 👋
 
-<!--
-**Sathya70/Sathya70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA graduate from Meenakshi College of Engineering, based in Chennai.
+I build backend applications with Java and Spring Boot, and I'm looking for
+**Java Backend, Database, Full-Stack, or Testing** roles.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, SQL, JavaScript, Go (learning)
+- **Backend:** Spring Boot, REST APIs, Microservices (learning)
+- **Databases:** MySQL, PostgreSQL (learning)
+- **Frontend:** React.js, HTML, CSS
+- **Tools:** Git, GitHub, Maven, Postman, IntelliJ IDEA
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Student Management System](link-to-repo) | Student CRUD, login, marks with total/average/grade | React, Spring Boot, MySQL |
+| [Cook Hiring Platform](link-to-repo) | Hiring platform with Admin, Job Seeker and Job Hirer roles | Python |
+
+## 💼 Experience
+
+**Software Engineer**, Stitch Financial Technologies India Pvt. Ltd.
+Backend development.
+
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/sathyaarumugam
+- Email: sathyaarumugam376@gmail.com
